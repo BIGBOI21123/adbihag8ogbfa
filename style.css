@@ -1,0 +1,22 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#check
+{
+font-size: 18px;
+}
+canvas
+{
+    margin-left: 520px;
+    margin-top: 80px;
+}
